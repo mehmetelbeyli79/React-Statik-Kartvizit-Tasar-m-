@@ -1,0 +1,31 @@
+.content {
+  background-color: #1a1b21;
+  /* width: 317px; */
+  padding: 0px 35px;
+}
+.baslik {
+  width: 242.71px;
+  height: 21px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+
+  color: #f5f5f5;
+}
+.icerik {
+  width: 247px;
+  height: 61px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #dcdcdc;
+}
